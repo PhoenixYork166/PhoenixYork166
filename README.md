@@ -7,7 +7,7 @@
 <img src="./images/dont-call-911.gif" width="350" height="250">
 <br>
 <h2>My previous Fullstack development experience at IGS :D</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,angular,java,maven,linux,docker,git" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,angular,java,maven,postgres,linux,docker,git" />
 <br>
 <h1>I know NOTHING now ;)</h1>
 <img src="./images/shh.jpg" width="350" height="350">
