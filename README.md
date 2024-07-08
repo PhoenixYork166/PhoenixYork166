@@ -1,6 +1,8 @@
 <h1>Hi There😉 Greetings</h1>
 <h2>I have been working at here</h2>
 <img src="./images/igs.png" width="720" height="432">
+<br>
+<h2>My idolu is Wick Gor</h2>
 <img src="./images/wick-gor-1.gif" width="720" height="405">
 <br>
 <h2>I work as a Nobody😉</h2>
