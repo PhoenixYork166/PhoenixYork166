@@ -7,7 +7,7 @@
 <br>
 
 <!-- GitHub Trophies -->
-<h2>My GitHub Trophies</h2>
+<h2 align="center">My GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=berlinlee-phoenix&theme=onedark&column=-1" alt="GitHub Trophies">
@@ -15,19 +15,19 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2>My GitHub Stats</h2>
+<h2 align="center">My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=berlinlee-phoenix&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 
 <!-- GitHub streak-stats -->
-<h2>My GitHub Streak stats</h2>
+<h2 align="center">My GitHub Streak stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=berlinlee-phoenix&theme=tokyonight&hide_border=true" alt="streak-stats">
 </p>
 
 <!-- GitHub activity-graph -->
-<h2>My GitHub activity chart</h2>
+<h2 align="center">My GitHub activity chart</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berlinlee-phoenix&area=true&theme=tokyo-night&hide_border=true" alt="activity-graph">
 </p>
