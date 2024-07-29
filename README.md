@@ -7,6 +7,7 @@
 <br>
 
 <!-- GitHub Trophies -->
+<h2>My GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=berlinlee-phoenix&theme=onedark&column=-1" alt="GitHub Trophies">
@@ -14,6 +15,7 @@
 </p>
 
 <!-- GitHub Stats -->
+<h2>My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=berlinlee-phoenix&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
