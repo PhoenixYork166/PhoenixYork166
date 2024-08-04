@@ -5,7 +5,7 @@
 <h2 align="center">My previous Fullstack Development working experience :D</h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,angular,java,maven,postgres,linux,docker,git" />
 <br>
-
+<h1>I'm currently switching my tech stack again :D</h1>
 <!-- GitHub Trophies -->
 <h2 align="center">My GitHub Trophies</h2>
 <p align="center">
