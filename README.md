@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">Enjoy learning with my Frontend, Backend, DevOps, Cloud, Infrastructure, Penetration Testing fellas😄</h2>
 <br>
-<h2 align="center">My previous Fullstack Development working experience :D</h2>
+<h2 align="center">My previous Fullstack Development commercial projects working experience :D</h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,angular,java,maven,postgres,linux,docker,git" />
 <br>
 <h1>I'm currently switching my tech stack again :D</h1>
