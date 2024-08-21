@@ -4,15 +4,15 @@
 <br>
 <h2 style="align: center">My previous Fullstack Development commercial projects working experience :D</h2>
 <h2 style="align: center">Cloud SaaS Stack 1</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,angular,java,maven,postgres,git&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,svelte,npm,angular,java,maven,postgres,git&perline=4" />
 <h2 style="align: center">App Dev Stack 2</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,npm,mongodb&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,npm,mongodb,mysql,postgres&perline=4" />
 <h2 style="align: center">Cloud Computing</h2>
 <img src="https://skillicons.dev/icons?i=azure,aws&perline=2" />
 <h2 style="align: center">Containerization</h2>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" />
 <h2 style="align: center">Automation & Scripting</h2>
-<img src="https://skillicons.dev/icons?i=linux,py,bash&perline=3" />
+<img src="https://skillicons.dev/icons?i=linux,py,bash,regex&perline=4" />
 <br>
 <h1>I'm currently switching my tech stack again :D</h1>
 <!-- GitHub Trophies -->
