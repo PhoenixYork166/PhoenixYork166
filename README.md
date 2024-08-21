@@ -12,7 +12,7 @@
 <h2 style="align: center">Containerization</h2>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" />
 <h2 style="align: center">Automation & Scripting</h2>
-<img src="https://skillicons.dev/icons?i=linux,py,bash&perline=2" />
+<img src="https://skillicons.dev/icons?i=linux,py,bash&perline=3" />
 <br>
 <h1>I'm currently switching my tech stack again :D</h1>
 <!-- GitHub Trophies -->
