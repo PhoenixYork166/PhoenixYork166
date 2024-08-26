@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,nextjs,ts,npm,mongodb,graphql&perline=4" />
 <br>
 <h2 style="align: center">Version Control</h2>
-<img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=2" />
+<img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=4" />
 <br>
 <h2 style="align: center">DevOps Containerization</h2>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" />
