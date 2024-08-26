@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=4" />
 <br>
 <h2 style="align: center">DevOps Containerization</h2>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" />
+<img src="https://skillicons.dev/icons?i=docker&perline=2" />
 <br>
 <h2 style="align: center">DevOps Automation</h2>
 <img src="https://skillicons.dev/icons?i=linux,py,bash,regex&perline=4" />
