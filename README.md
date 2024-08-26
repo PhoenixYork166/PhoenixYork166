@@ -1,20 +1,26 @@
 <h1 style="align: center">Hi There😉 Greetings</h1>
 <br>
-<h2 style="align: center">Enjoy learning with my Frontend, Backend, DevOps, Cloud, Infrastructure, Penetration Testing fellas😄</h2>
+<h2 style="align: center">Enjoy learning with my Frontend, Backend, DevOps, Cloud computing, Penetration Testing fellas😄</h2>
 <br>
-<h2 style="align: center">My previous Fullstack Development commercial projects working experience :D</h2>
-<h2 style="align: center">Cloud SaaS Stack 1</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,svelte,npm,angular,java,maven,postgres,git&perline=4" />
-<h2 style="align: center">App Dev Stack 2</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,npm,mongodb,mysql,postgres&perline=4" />
-<h2 style="align: center">Cloud Computing</h2>
-<img src="https://skillicons.dev/icons?i=azure,aws&perline=2" />
-<h2 style="align: center">Containerization</h2>
+<h2 style="align: center">My Full Stack Dev toolbelt :D</h2>
+<h2 style="align: center">App Dev Stack1</h2>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,webpack,npm,mysql,sequelize,postgres&perline=4" />
+<br>
+<h2 style="align: center">App Dev Stack2</h2>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,nextjs,ts,npm,mongodb,graphql&perline=4" />
+<br>
+<h2 style="align: center">Version Control</h2>
+<img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=2" />
+<br>
+<h2 style="align: center">DevOps Containerization</h2>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=2" />
-<h2 style="align: center">Automation & Scripting</h2>
+<br>
+<h2 style="align: center">DevOps Automation</h2>
 <img src="https://skillicons.dev/icons?i=linux,py,bash,regex&perline=4" />
 <br>
-<h1>I'm currently switching my tech stack again :D</h1>
+<h2 style="align: center">Cloud Computing</h2>
+<img src="https://skillicons.dev/icons?i=aws&perline=2" />
+<br>
 <!-- GitHub Trophies -->
 <h2 style="align: center">My GitHub Trophies</h2>
 <p style="align: center">
