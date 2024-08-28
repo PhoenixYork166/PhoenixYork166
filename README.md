@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,webpack,npm,mysql,sequelize,postgres&perline=4" />
 <br>
 <h2 style="align: center">App Dev Stack2</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,nextjs,ts,npm,mongodb,graphql&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,npm,mongodb,graphql&perline=4" />
 <br>
 <h2 style="align: center">Version Control</h2>
 <img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=4" />
