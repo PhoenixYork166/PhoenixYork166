@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=linux,py,bash,regex&perline=4" />
 <br>
 <h2 style="align: center">Cloud Computing</h2>
-<img src="https://skillicons.dev/icons?i=aws&perline=2" />
+<img src="https://skillicons.dev/icons?i=azure&perline=2" />
 <br>
 <!-- GitHub Trophies -->
 <h2 style="align: center">My GitHub Trophies</h2>
