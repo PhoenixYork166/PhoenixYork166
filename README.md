@@ -4,20 +4,11 @@
 <br>
 <img src=".//images/full-stack.gif" />
 <br>
-<h2 style="align: center">My Full Stack Dev toolbelt :D</h2>
+<h2 style="align: center">Full Stack Dev</h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,webpack,npm,mysql,sequelize,postgres&perline=4" />
 <br>
 <h2 style="align: center">Version Control</h2>
 <img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=4" />
-<br>
-<h2 style="align: center">DevOps Containerization</h2>
-<img src="https://skillicons.dev/icons?i=docker&perline=2" />
-<br>
-<h2 style="align: center">DevOps Automation</h2>
-<img src="https://skillicons.dev/icons?i=linux,py,bash,regex&perline=4" />
-<br>
-<h2 style="align: center">Cloud Computing</h2>
-<img src="https://skillicons.dev/icons?i=azure&perline=2" />
 <br>
 <!-- GitHub Trophies -->
 <h2 style="align: center">My GitHub Trophies</h2>
