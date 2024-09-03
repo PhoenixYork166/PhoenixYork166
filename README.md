@@ -1,8 +1,8 @@
 <h1 style="align: center">Hi There😉 Greetings</h1>
 <br>
-<h2 style="align: center">Enjoy learning with my Frontend, Backend, DevOps, Cloud computing, Penetration Testing fellas😄</h2>
+<h2 style="align: center">I'm a Full Stack Developer😄</h2>
 <br>
-<img src=".//images/full-stack.gif" />
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 <br>
 <h2 style="align: center">Full Stack Dev</h2>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,webpack,npm,mysql,sequelize,postgres&perline=4" />
