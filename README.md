@@ -2,10 +2,10 @@
 <br>
 <h2 style="align: center">I'm a Full Stack Developer😄</h2>
 <br>
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
+<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" />
 <br>
 <h2 style="align: center">Full Stack Dev</h2>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,express,webpack,npm,mysql,sequelize,postgres&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,ts,nodejs,express,webpack,npm,mysql,postgres,sequelize,mongodb,py,docker&perline=4" />
 <br>
 <h2 style="align: center">Version Control</h2>
 <img src="https://skillicons.dev/icons?i=git,gitlab,github&perline=4" />
